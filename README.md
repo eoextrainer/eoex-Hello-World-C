@@ -129,5 +129,7 @@ We hope that you will enjoy this educational journey ;-)
 ## 8- Deployment
 
 ## 9- Delivery & Execution
+<img width="640" height="556" alt="hello-world-c" src="https://github.com/user-attachments/assets/d86033a8-55f1-424c-86de-818d49ee3325" />
+
 
 ## 10- Documentation & Presentation
